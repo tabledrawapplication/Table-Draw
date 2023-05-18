@@ -1,5 +1,5 @@
 ![icon](https://github.com/tabledrawapplication/Table-Draw/assets/133618646/3007019b-ddba-4649-bb24-df00fed5e71a)
-# Title: TableDraw - Your Ultimate Poker Tournament Companion
+# TableDraw - Your Ultimate Poker Tournament Companion
 
 Welcome to TableDraw, the definitive tool for serious poker players. This innovative app provides you with the names and history of your tournament opponents, giving you the upper hand before you even sit at the table.
 
