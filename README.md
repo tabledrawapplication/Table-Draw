@@ -3,6 +3,8 @@
 
 Welcome to TableDraw, the definitive tool for serious poker players. This innovative app provides you with the names and history of your tournament opponents, giving you the upper hand before you even sit at the table.
 
+### For support please reach out to tabledrawapplication@gmail.com
+
 ## Features:
 
 ### Player Identification: 
